@@ -22,8 +22,8 @@
   ],
   "scripts": {
     "dev": "npm run serve",
-    "docs": "vue-cli-service build dev/serve.js --dest docs",
-    "serve": "vue-cli-service serve dev/serve.js",
+    "docs": "vue-cli-service build --dest docs",
+    "serve": "vue-cli-service serve",
     "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
     "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
     "build:es": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format es",

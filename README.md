@@ -63,6 +63,15 @@ export default {
 </script>
 ```
 
+## FAQ
+
+### What about the touch delay on mobile?
+
+To solve the touch delay in modern web browsers natively:
+https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away
+
+And for the old browsers: https://github.com/ftlabs/fastclick
+
 ## License
 
 [MIT license](https://github.com/jpntex/vue-pad/blob/master/LICENSE) - jpntex
