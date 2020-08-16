@@ -34,6 +34,12 @@ export default {
   data() {
     return {
       sounds: [{
+        label: 'Petaculo',
+        url: require('./sounds/petaculo.mp3'),
+        volume: 1, // 0 .. 0.5 .. 1
+        color: '#11e9e2',
+        shortkey: 'B',
+      }, {
         url: '/beats/snare.wav',
         color: 'purple'
       }]
