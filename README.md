@@ -1,9 +1,23 @@
-# Vue Pad
+<p align="center">
+  <a href="https://jpntex.github.io/vue-pad/">
+    <img src="https://user-images.githubusercontent.com/3942799/90333817-ca5c8f80-dfc0-11ea-8571-3233ce586db8.png" alt="Vue Pad" width="200" />
+  </a>
+</p>
 
-[![npm (scoped with tag)](https://flat.badgen.net/npm/v/vue-pad)](https://npmjs.com/package/vue-pad)
-[![npm](https://flat.badgen.net/npm/dt/vue-pad)](https://npmjs.com/package/vue-pad)
+<p align="center">Vue Pad - Sound Pads for Vue JS</p>
 
-DEMO - [https://jpntex.github.io/vue-pad/](https://jpntex.github.io/vue-pad/)
+<p align="center">
+  <a href="https://npmjs.org/package/vue-pad">
+    <img src="https://img.shields.io/npm/v/vue-pad.svg" alt="Version" />
+  </a>
+  <a href="https://github.com/jpntex/vue-pad/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jpntex/vue-pad.svg" alt="License" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jpntex.github.io/vue-pad/" target="_blank">https://jpntex.github.io/vue-pad/</a>
+</p>
 
 ## Getting Started
 
