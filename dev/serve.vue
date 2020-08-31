@@ -13,6 +13,12 @@ export default {
   data() {
     return {
       sounds: [{
+        label: 'Another 1',
+        url: require('./sounds/another-one.mp3'),
+        volume: 0.8,
+        color: '#b19a47',
+        shortkey: '1'
+      }, {
         label: 'Petaculo',
         url: require('./sounds/petaculo.mp3'),
         volume: 1,
