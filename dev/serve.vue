@@ -96,6 +96,12 @@ export default {
         volume: 1,
         color: '#ed8a10',
         shortkey: 'H'
+      }, {
+        label: 'Marta',
+        url: require('./sounds/melhorequipadesiiieeempre.wav'),
+        volume: 1,
+        color: '#F472B6',
+        shortkey: 'M'
       }]
     }
   }
