@@ -102,6 +102,12 @@ export default {
         volume: 1,
         color: '#F472B6',
         shortkey: 'M'
+      }, {
+        label: 'Carioca',
+        url: require('./sounds/carioca.mp3'),
+        volume: 1,
+        color: '#F472B6',
+        shortkey: 'P'
       }]
     }
   }
